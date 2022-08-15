@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**PromptLag/PromptLag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is David.
+--------------------------------
+### Some things about me are...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on writing and creating a resume for myself. 📝
+- 🌱 I’m currently learning to code in more languages. 
+- 👯 I’m looking to collaborate on nothing right now.
+- 🤔 I’m looking for help with nothing right now.
+- 💬 Ask me about simple computer concepts because I'm still just a student.
+- 📫 How to reach me: You can reach me at davidhuman466@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: My favorite color is kind of dark blue.
+--> 🟦
